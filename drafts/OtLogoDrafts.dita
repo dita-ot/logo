@@ -35,9 +35,9 @@
                     <colspec colname="c3" colwidth="30%" align="left" colnum="3"/>
                     <tbody>
                         <row valign="bottom">
-                            <entry colname="c1"><image placement="inline" href="variants/variant2_open_box.svg" id="image_d5w_qkd_tfb" width="120pt"/></entry>
-                            <entry colname="c2"><image placement="inline" href="variants/variant2_open_box.svg" id="image_ffhrfeg" width="75pt"/></entry>
-                            <entry colname="c3"><image placement="inline" href="variants/variant2_open_box.svg" id="image_4fnf34h" width="20pt"/></entry>
+                            <entry colname="c1"><image placement="inline" href="variants/variant2.1_open_box.svg" id="image_d5w_qkd_tfb" width="120pt"/></entry>
+                            <entry colname="c2"><image placement="inline" href="variants/variant2.1_open_box.svg" id="image_ffhrfeg" width="75pt"/></entry>
+                            <entry colname="c3"><image placement="inline" href="variants/variant2.1_open_box.svg" id="image_4fnf34h" width="20pt"/></entry>
                         </row>
                     </tbody>
                 </tgroup>
